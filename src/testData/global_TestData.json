@@ -1,0 +1,20 @@
+{
+  "TeamNameToCityNameMapping":[
+    {
+      "Boston": "celtics",
+      "Brooklyn": "nets",
+      "New York": "knicks",
+      "Philadelphia": "sixers",
+      "Toronto": "raptors",
+      "Chicago": "bulls",
+      "Cleveland": "cavaliers",
+      "Detroit": "pistons",
+      "Indiana": "pacers",
+      "Milwaukee": "bucks",
+      "Atlanta": "hawks",
+      "Charlotte": "hornets",
+      "Orlando": "magic",
+      "Washington": "wizards"
+    }
+  ]
+}
